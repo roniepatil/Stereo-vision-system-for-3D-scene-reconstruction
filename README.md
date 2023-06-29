@@ -18,10 +18,10 @@ This project focuses on implementation of concept of Stereo Vision. With given 3
 * **Disparity heatmap**
   - ![alt text](https://github.com/roniepatil/Stereo-vision-system-for-3D-scene-reconstruction/blob/main/Images/Disparity_in_heatmap_on_pendulum_dataset.png)
   - ![alt text](https://github.com/roniepatil/Stereo-vision-system-for-3D-scene-reconstruction/blob/main/Images/Disparity_in_heatmap_on_octagon_dataset.png)
-  - ![alt text](https://github.com/roniepatil/Stereo-vision-system-for-3D-scene-reconstruction/blob/main/Images/Disparity_in_heatmap_on_octagon_dataset.png)
+  - ![alt text](https://github.com/roniepatil/Stereo-vision-system-for-3D-scene-reconstruction/blob/main/Images/Disparity_in_heatmap_on_curule_dataset.png)
 * **Disparity greyscale**
   - ![alt text](https://github.com/roniepatil/Stereo-vision-system-for-3D-scene-reconstruction/blob/main/Images/Disparity_in_greyscale_on_pendulum_dataset.png)
-  - ![alt text](https://github.com/roniepatil/Stereo-vision-system-for-3D-scene-reconstruction/blob/main/Images/Disparity_in_greyscale_on_pendulum_dataset.png)
+  - ![alt text](https://github.com/roniepatil/Stereo-vision-system-for-3D-scene-reconstruction/blob/main/Images/Disparity_in_greyscale_on_octagon_dataset.png)
   - ![alt text](https://github.com/roniepatil/Stereo-vision-system-for-3D-scene-reconstruction/blob/main/Images/Disparity_in_greyscale_on_curule_dataset.png)
 * **Depth heatmap**
   - ![alt text](https://github.com/roniepatil/Stereo-vision-system-for-3D-scene-reconstruction/blob/main/Images/Depth_in_heatmap_on_pendulum_dataset.png)
