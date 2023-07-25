@@ -1,7 +1,5 @@
 # Stereo vision system for 3D scene reconstruction
 
-## Author
-Rohit M Patil
 
 ## Description
 This project focuses on implementation of concept of Stereo Vision. With given 3 different datasets, each of them contains 2 images of the same scenario but taken from two different camera angles. By comparing the information about a scene from 2 vantage points, we can obtain the 3D information by examining the relative positions of objects.
